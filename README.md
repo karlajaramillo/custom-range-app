@@ -16,13 +16,13 @@ The Range component accepts the following props for customization:
 - step (value increment/decrement)
 - onChange (callback function when the range changes)
 
-## Prerequisite
+## 1. Prerequisites
 
 - NextJS
 - TypeScript
 - Testing
 
-## 1. Install and run
+## 2. Install and run
 
 1. Run `npm install` to install all the package
 2. Run `npm run dev` to start the application
@@ -30,10 +30,12 @@ The Range component accepts the following props for customization:
 4. Navigate to normal range component: [http://localhost:8080/exercise1](http://localhost:8080/exercise1)
 5. Navigate to fixed range component: [http://localhost:8080/exercise2](http://localhost:8080/exercise2)
 
-## Tests
+## 3. Tests
 
 Execute the following command to run the unit tests:
 
 ```
 npm run test
 ```
+## 4. Live version
+Try live version: [https://custom-range-app-kjg.netlify.app/](https://custom-range-app-kjg.netlify.app/)
