@@ -1,7 +1,7 @@
 'use client';
 
 import React, { useEffect, useState } from 'react';
-import Range from '@/components/Range';
+import Range from '@/app/components/Range';
 import { getFixedRangeValues } from 'services/rangeService';
 
 const Exercise2Page = () => {
