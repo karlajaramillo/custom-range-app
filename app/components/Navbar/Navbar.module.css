@@ -1,0 +1,33 @@
+.wrapper {
+  margin: 0.5rem 3rem;
+}
+
+.border {
+  border-bottom: 1px solid rgb(221 221 221 / 35%);
+}
+
+.flex {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.list {
+  display: flex;
+  gap: 1rem;
+}
+
+.list a {
+  text-transform: uppercase;
+  font-size: 0.75rem;
+  font-weight: 300;
+  transition: all 0.05s;
+}
+
+.list a:hover {
+  font-weight: 500;
+}
+
+.imgWrapper {
+  display: flex;
+}
