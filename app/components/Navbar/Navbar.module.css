@@ -1,5 +1,5 @@
 .wrapper {
-  margin: 0.5rem 2rem;
+  margin: 0.25rem 1.5rem;
 }
 
 .border {
@@ -30,4 +30,10 @@
 
 .imgWrapper {
   display: flex;
+}
+
+@media (min-width: 40rem) {
+  .wrapper {
+    margin: 0.5rem 3rem;
+  }
 }
