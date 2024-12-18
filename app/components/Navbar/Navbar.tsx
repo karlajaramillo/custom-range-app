@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import Logo from '../../../public/mango-Logo.png';
+import Logo from '../../../public/mango-logo.png';
 import styles from './Navbar.module.css';
 
 export default function Navbar() {
